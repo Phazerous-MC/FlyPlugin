@@ -1,0 +1,15 @@
+name: FlyPlugin
+version: 1.0
+main: phazerous.flyplugin.Main
+api-version: 1.16
+authors: [ Phazerous ]
+description: The plugin adds fly mode to players.
+website: https://github.com/Phazerous-MC
+
+commands:
+  fly:
+    description: Allows a player to fly.
+  fly <player>:
+    description: Allows another player to fly.
+  fly set speed <amplifier>:
+    description: Sets the flight speed, additional text.

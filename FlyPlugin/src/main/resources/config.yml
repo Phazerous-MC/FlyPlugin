@@ -1,0 +1,7 @@
+plugin_prefix: "&e[FlyPlugin]"
+plugin_error_color: "&4"
+fly_on_message: "a&lFly is activated."
+fly_off_message: "&c&lFly is deactivated."
+fly_for_on_message: "&3&lFly is activated for "
+fly_for_off_message: "&3&lFly is deactivated for "
+speed_set_message: "&3&lSpeed was set to "
